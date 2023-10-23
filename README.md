@@ -30,3 +30,5 @@ I have successfully displayed the sample metadata, which includes an individual'
 
 Finally, I updated all the plots when a new sample is selected. Guage chart is optional. 
 ![image](https://github.com/ciincing/belly-button-challenge/assets/130705911/4ff1b942-9fc2-4a93-b867-743d7c53467f)
+
+Link to page: http://127.0.0.1:3002/c:/Users/ciinc/Downloads/Mod14Challenge/StarterCode/index.html 
